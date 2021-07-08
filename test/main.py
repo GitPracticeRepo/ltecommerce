@@ -5,3 +5,6 @@ def test_start_app():
 
 def test_login():
     pass
+
+def test_logout():
+    pass

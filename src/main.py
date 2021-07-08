@@ -7,3 +7,6 @@ def start_app():
 
 def login():
     pass
+
+def logout():
+    pass
